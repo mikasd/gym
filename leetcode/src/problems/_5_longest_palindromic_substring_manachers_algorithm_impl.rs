@@ -6,6 +6,8 @@ https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromi
 
 use std::iter;
 
+struct Solution;
+
 impl Solution {    
     pub fn longest_palindrome(s: String) -> String {
         if s.is_empty() {
