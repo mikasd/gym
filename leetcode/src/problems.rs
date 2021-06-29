@@ -3,3 +3,4 @@ mod _5_longest_palindromic_substring_manachers_algorithm_impl;
 mod _19_remove_nth_node_from_list;
 mod _15_3sum;
 mod _108_convert_sorted_arr_to_bst;
+mod _32_longest_valid_parentheses;
